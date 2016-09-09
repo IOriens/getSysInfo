@@ -1,3 +1,6 @@
+## Intro
+Get system info using syscalls in c library.
+
 ## How to start
 
 Prerequest:
